@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Ebenezer but friends call me Nezzar
+- 👋 Hi there, I’m Ebenezer but you can also call me Nezzar
 - 👀 I’m interested in building myself as a data analyst.
 - 🌱 I’m currently on the path learning all the major tools used by data analyst, and BI analyst.
 - 🚴🏼‍♀️ I would appreciate if you can contribute your quota towards my learning path
