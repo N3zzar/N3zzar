@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Ebenezer but you can also call me Nezzar
-- 👀 I’m interested in building myself as a data analyst.
+- 👀 I’m currently upskilling in the data niche, specifically Data analysis and data engineering.
 - 🌱 I’m currently on the path learning all the major tools used by data analyst, and BI analyst.
 - 🚴🏼‍♀️ I would appreciate if you can contribute your quota towards my learning path
 - 📫 You can reach me via https://twitter.com/ebenezer_tomoye on twitter and on linkedIn as https://www.linkedin.com/in/ebenezer-tomoye/
