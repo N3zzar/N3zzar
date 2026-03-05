@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Nezzar%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Analytics%20Engineer%20·%20Data%20Analyst%20&descAlignY=58&descSize=18&descColor=cdd6f4)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Nezzar%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlign=50&fontAlignY=36&desc=Analytics%20Engineer%20·%20Data%20Analyst%20&descAlign=50&descAlignY=58&descSize=18&descColor=cdd6f4)
 
 *Turning raw data into decisions stakeholders can trust.*
 
